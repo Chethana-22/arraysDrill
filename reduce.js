@@ -13,8 +13,6 @@ export function reduce(elements, cb, stringValue){
     return stringValue;
 }
 
-export function cb(stringValue, element){
-    return stringValue + element;
-}
+
 
 

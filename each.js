@@ -4,8 +4,6 @@ export function each(elements, cb){
     }
 }
 
-export function cb(elements, index){
-    console.log(`Element at ${index} is ${elements}`);
-}
+
 
 

@@ -6,6 +6,4 @@ export function map(elements, cb){
     return result;
 }
 
-export function cb(element) {
-    return element * element;
-}
+
