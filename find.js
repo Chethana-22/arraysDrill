@@ -4,5 +4,5 @@ export function find(elements, cb){
             return true;
         }
     }
-    return false;
+    return undefined;
 }
